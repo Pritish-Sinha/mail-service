@@ -1,7 +1,7 @@
 
 # Mail Service Web App
 
-This project is a functional web app built using Vite, React, and Tailwind CSS, based on the provided designs and APIs. The app includes features such as login, data fetching, keyboard shortcuts, a custom text editor, and light/dark mode.
+This project is a functional web app built using Vite, React, Redux, and Tailwind CSS, based on the provided designs and APIs. The app includes features such as login, data fetching, keyboard shortcuts, a custom text editor, and light/dark mode.
 
 ## Features
 
@@ -24,6 +24,7 @@ This project is a functional web app built using Vite, React, and Tailwind CSS, 
 - **Vite**: For fast and optimized development.
 - **React**: As the JavaScript library for building user interfaces.
 - **Tailwind CSS**: For utility-first CSS styling.
+- **Redux**: For state management.
 
 
 ## Installation and Setup
