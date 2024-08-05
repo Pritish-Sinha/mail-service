@@ -97,5 +97,5 @@ The app supports both light and dark modes. Users can switch between these modes
 
 ## Demo
 
-- **Video Demo**: [Loom](#) <!-- Add your loom link here -->
-- **Live Demo**: [Vercel](#) <!-- Add your live demo link here -->
+- **Video Demo**: [Loom](#) <!-- https://www.loom.com/share/667d5e552e40463994362fa74caaf02a?sid=335fd01e-de36-4175-a2fb-a24c1160017b -->
+- **Live Demo**: [Vercel](#) <!-- https://mail-service-six.vercel.app -->
