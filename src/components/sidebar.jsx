@@ -44,7 +44,7 @@ const sidebar = () => {
           
           className="mt-12 hover:bg-gray-700 hover:p-1 rounded text-gray-400"
         />
-        <Link to="/allmail">
+        <Link to="/mail">
         <FaInbox
           
           className="mt-12 hover:bg-gray-700 hover:p-1 rounded text-gray-400"
